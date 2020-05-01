@@ -4,3 +4,4 @@
 <li>Reversing the directions in the outer and nested selection structure</li>
 <li>Using an unnecessary nested selection structure</li>
 </ol>
+<img src="DoorPrize.png">
